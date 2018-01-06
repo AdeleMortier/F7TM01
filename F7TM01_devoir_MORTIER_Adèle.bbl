@@ -1,3 +1,47 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Barthes1966}
+Roland \bgroup\sc Barthes\egroup{}.
+\newblock << Introduction à l'analyse structurale des récits >>.
+\newblock {\em Communications}, 8:1--27, 1966.
+
+\bibitem{Blanchot1959}
+Maurice \bgroup\sc Blanchot\egroup{}.
+\newblock << {\em Le livre à venir} >>.
+\newblock Collection Idées. Gallimard, 1959.
+
+\bibitem{Lukacs191649}
+Georg \bgroup\sc Lukacs\egroup{}.
+\newblock << {\em La Théorie du roman} >>, \pagename{}~49.
+\newblock Denoël, 1920-1981.
+\newblock Trad. de l'allemand (Hongrie) par Jean Clairevoye.
+
+\bibitem{Lukacs191654}
+Georg \bgroup\sc Lukacs\egroup{}.
+\newblock << {\em La Théorie du roman} >>, \pagename{}~54.
+\newblock Denoël, 1920-1981.
+\newblock Trad. de l'allemand (Hongrie) par Jean Clairevoye.
+
+\bibitem{Panofsky1983}
+Erwin \bgroup\sc Panofsky\egroup{}.
+\newblock {\em Idea. Contribution à l'histoire du concept de l'ancienne
+  théorie de l'art}.
+\newblock Gallimard, 1983.
+
+\bibitem{Pingaud1992}
+Bernard \bgroup\sc Pingaud\egroup{}.
+\newblock << {\em Les Anneaux du manège. Ecriture et littérature} >>,
+  \pagesname{} 211--213.
+\newblock coll. Folio-essais. Gallimard, 1965-1992.
+
+\bibitem{Platon}
+\bgroup\sc Platon\egroup{}.
+\newblock {\em La République}.
+\newblock Livre X.
+
+\bibitem{Rabate2010}
+Dominique \bgroup\sc Rabate\egroup{}.
+\newblock << {\em Le Roman et le sens de la vie} >>, \pagesname{} 32--34.
+\newblock Corti, 2010.
 
 \end{thebibliography}
