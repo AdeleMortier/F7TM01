@@ -568,7 +568,7 @@ FUNCTION {article}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  format.title "title" output.check.guillemet
+  format.title "title" output.check
   new.block
   crossref missing$
     { journal emphasize "journal" output.check
@@ -642,7 +642,7 @@ FUNCTION {inbook}
     }
   if$
   new.block
-  format.btitle "title" output.check.guillemet
+  format.btitle "title" output.check
   crossref missing$
     { format.bvolume output
       format.chapter.pages "chapter and pages" output.check
@@ -694,7 +694,7 @@ FUNCTION {inproceedings}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  format.title "title" output.check.guillemet
+  format.title "title" output.check
   new.block
   crossref missing$
     { format.in.ed.booktitle "booktitle" output.check
@@ -739,7 +739,7 @@ FUNCTION {manual}
     { format.authors output.nonnull }
   if$
   new.block
-  format.btitle "title" output.check.guillemet
+  format.btitle "title" output.check
   author empty$
     { organization empty$
         { address new.block.checka
@@ -764,7 +764,7 @@ FUNCTION {mastersthesis}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  format.title "title" output.check.guillemet
+  format.title "title" output.check
   new.block
   "Master's thesis" format.thesis.type output.nonnull
   school "school" output.check
@@ -779,7 +779,7 @@ FUNCTION {misc}
 { output.bibitem
   format.authors output
   title howpublished new.block.checkb
-  format.title output.guillemet
+  format.title output
   howpublished new.block.checka
   howpublished output
   format.date output
@@ -793,7 +793,7 @@ FUNCTION {phdthesis}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  format.btitle "title" output.check.guillemet
+  format.btitle "title" output.check
   new.block
   "PhD thesis" format.thesis.type output.nonnull
   school "school" output.check
@@ -843,7 +843,7 @@ FUNCTION {techreport}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  format.title "title" output.check.guillemet
+  format.title "title" output.check
   new.block
   format.tr.number output.nonnull
   institution "institution" output.check
@@ -858,7 +858,7 @@ FUNCTION {unpublished}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  format.title "title" output.check.guillemet
+  format.title "title" output.check
   new.block
   note "note" output.check
   format.date output

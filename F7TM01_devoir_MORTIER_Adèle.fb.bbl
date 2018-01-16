@@ -1,8 +1,16 @@
 \begin{thebibliography}{10}
 
+\bibitem{WikiTempus}
+\textit{Tempus fugit} --- {W}ikipedia{,} l'encyclopédie libre, 2017.
+\newblock [En ligne; dernier accès 14 janvier 2018].
+
 \bibitem{WikiRomanGrec}
-<< Roman (littérature) --- {W}ikipedia{,} The Free Encyclopedia >>, 2018.
+Roman (littérature) --- {W}ikipedia{,} l'encyclopédie libre, 2018.
 \newblock [En ligne; dernier accès 11 janvier 2018].
+
+\bibitem{WikiGnothi}
+\textit{Gnothi seauton} --- {W}ikipedia{,} l'encyclopédie libre, 2018.
+\newblock [En ligne; dernier accès 13 janvier 2018].
 
 \bibitem{Lallot1980}
 \bgroup\sc Aristote\egroup{}.
@@ -25,13 +33,29 @@ Erich \bgroup\sc Auerbach\egroup{}.
 
 \bibitem{Barthes1966}
 Roland \bgroup\sc Barthes\egroup{}.
-\newblock << Introduction à l'analyse structurale des récits >>.
+\newblock Introduction à l'analyse structurale des récits.
 \newblock {\em Communications}, 8:1--27, 1966.
+
+\bibitem{Bergson1889}
+H.~\bgroup\sc Bergson\egroup{} \andname{} R.~\bgroup\sc Ehrsam\egroup{}.
+\newblock {\em Essai sur les donn{\'e}es imm{\'e}diates de la conscience -
+  Chapitre 2}.
+\newblock GF. Flammarion, 2013.
 
 \bibitem{Blanchot1959}
 Maurice \bgroup\sc Blanchot\egroup{}.
 \newblock {\em Le livre à venir}.
 \newblock coll. Idées. Gallimard, 1959.
+
+\bibitem{Causse2016}
+Rolande \bgroup\sc Causse\egroup{}.
+\newblock {\em Conversations avec Nathalie Sarraute}.
+\newblock coll. Sciences humaines. Seuil, 2016.
+
+\bibitem{Charles1985}
+Michel \bgroup\sc Charles\egroup{}.
+\newblock {\em L'Arbre et la source}.
+\newblock coll. Poétique. Seuil, 1985.
 
 \bibitem{Chklovski1973}
 Victor \bgroup\sc Chklovski\egroup{}.
@@ -39,17 +63,22 @@ Victor \bgroup\sc Chklovski\egroup{}.
 \newblock Editions Champ Libre, 1973.
 \newblock Traduction du russe par Michel Pétris.
 
+\bibitem{Depraz2012}
+Nathalie \bgroup\sc Depraz\egroup{}.
+\newblock La crise de l’humanité européenne et la philosophie,
+  introduction, commentaire et traduction par Nathalie Depraz, 2012.
+
+\bibitem{Jankelevitch1980}
+Vladimir \bgroup\sc Jank{\'e}l{\'e}vitch\egroup{}.
+\newblock {\em Le Je-ne-sais-quoi et le presque-rien : 3, la volonté de
+  vouloir}.
+\newblock Seuil, 1980.
+
 \bibitem{Lukacs1916}
 Georg \bgroup\sc Lukacs\egroup{}.
 \newblock {\em La Théorie du roman}.
 \newblock Denoël, 1920-1981.
 \newblock Trad. de l'allemand (Hongrie) par Jean Clairevoye.
-
-\bibitem{Panofsky1983}
-Erwin \bgroup\sc Panofsky\egroup{}.
-\newblock {\em Idea. Contribution à l'histoire du concept de l'ancienne
-  théorie de l'art}.
-\newblock Gallimard, 1983.
 
 \bibitem{Pingaud1992}
 Bernard \bgroup\sc Pingaud\egroup{}.
@@ -59,16 +88,25 @@ Bernard \bgroup\sc Pingaud\egroup{}.
 \bibitem{Platon}
 \bgroup\sc Platon\egroup{}.
 \newblock {\em La République}.
-\newblock Livre X.
 
 \bibitem{Rabate2010}
 Dominique \bgroup\sc Rabate\egroup{}.
 \newblock {\em Le Roman et le sens de la vie}.
 \newblock Corti, 2010.
 
+\bibitem{Revault1992}
+Myriam \bgroup\sc Revault~d'Allonnes\egroup{}.
+\newblock L'homme d'Aristote : animal mimétique, animal politique.
+\newblock {\em Les Cahiers du GRIF}, 46:97--102, 1992.
+
 \bibitem{Sallenave1991}
 Danièle \bgroup\sc Sallenave\egroup{}.
 \newblock {\em Le Don des morts. Sur la littérature}.
 \newblock coll. Blanche. Gallimard, 1991.
+
+\bibitem{Sartre1945}
+Jean-Paul \bgroup\sc Sartre\egroup{}.
+\newblock {\em L'existentialisme est un humanisme}.
+\newblock coll. Folio Essais (n\textdegree 284). Gallimard, 1996.
 
 \end{thebibliography}

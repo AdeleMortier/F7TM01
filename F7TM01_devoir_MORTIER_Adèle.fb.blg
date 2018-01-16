@@ -3,52 +3,54 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: F7TM01_devoir_MORTIER_Adèle.fb.aux
 The style file: frplain.bst
 Database file #1: footbibliography.bib
-I was expecting a `,' or a `}'---line 106 of file footbibliography.bib
+I was expecting a `,' or a `}'---line 117 of file footbibliography.bib
  :  pages={97-102}
  :                .
 I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in WikiRomanGrec
+Warning--to sort, need author or key in WikiGnothi
+Warning--to sort, need author or key in WikiTempus
 Warning--empty publisher in Platon
 Warning--empty year in Platon
-You've used 13 entries,
+You've used 21 entries,
             2159 wiz_defined-function locations,
-            592 strings with 5773 characters,
-and the built_in function-call counts, 2930 in all, are:
-= -- 283
-> -- 85
+            640 strings with 6818 characters,
+and the built_in function-call counts, 4647 in all, are:
+= -- 451
+> -- 135
 < -- 0
-+ -- 37
-- -- 24
-* -- 126
-:= -- 518
-add.period$ -- 49
-call.type$ -- 13
-change.case$ -- 38
++ -- 59
+- -- 38
+* -- 197
+:= -- 799
+add.period$ -- 73
+call.type$ -- 21
+change.case$ -- 61
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 150
-empty$ -- 289
-format.name$ -- 24
-if$ -- 634
+cite$ -- 26
+duplicate$ -- 230
+empty$ -- 470
+format.name$ -- 38
+if$ -- 1020
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 23
-newline$ -- 72
-num.names$ -- 24
-pop$ -- 84
+int.to.str$ -- 21
+missing$ -- 32
+newline$ -- 108
+num.names$ -- 36
+pop$ -- 139
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 61
 quote$ -- 0
-skip$ -- 78
+skip$ -- 132
 stack$ -- 0
-substring$ -- 77
-swap$ -- 15
+substring$ -- 135
+swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 30
-warning$ -- 3
-while$ -- 25
-width$ -- 15
-write$ -- 146
+type$ -- 54
+warning$ -- 5
+while$ -- 38
+width$ -- 23
+write$ -- 223
 (There was 1 error message)

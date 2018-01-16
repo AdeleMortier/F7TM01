@@ -1,0 +1,18 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Le roman comme ``forme'' litt\IeC {\'e}raire}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Des origines discutables}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Une g\IeC {\'e}n\IeC {\'e}alogie paradoxale}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Le roman et ses fonctions}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Un vecteur de la \textit {mimesis}}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Un reflet de la vie}{3}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}\textit {Quid} du contexte ?}{4}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Vis\IeC {\'e}e explicative}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Entre ph\IeC {\'e}nom\IeC {\'e}nologie et existentialisme}{5}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Une impossible qu\IeC {\^e}te du sens ?}{5}{subsubsection.2.2.2}
+\contentsline {section}{\numberline {3}Roman et vie r\IeC {\'e}elle : deux mondes distincts ?}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Le roman comme partie de la vie}{6}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Une essence partag\IeC {\'e}e ?}{6}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Cons\IeC {\'e}quences}{7}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Le roman comme extension de la vie}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}D'autres possibles pour le r\IeC {\'e}cit}{8}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}D'autres possibles pour la narration}{9}{subsubsection.3.2.2}
